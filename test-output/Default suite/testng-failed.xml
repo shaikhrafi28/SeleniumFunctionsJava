@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)" preserve-order="true">
+    <classes>
+      <class name="com.caqhgroups.qa.testcases.ManageGroupUsersPageTest">
+        <methods>
+          <include name="fillthedetails"/>
+          <include name="closebrowser"/>
+          <include name="homepagetest1"/>
+          <include name="mguptest1"/>
+          <include name="removeuser"/>
+          <include name="setUp"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

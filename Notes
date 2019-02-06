@@ -1,0 +1,2 @@
+JENKINS
+java -jar jenkins.war -httpPort=9090
